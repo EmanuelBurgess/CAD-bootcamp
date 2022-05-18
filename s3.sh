@@ -1,6 +1,6 @@
 #!/bin/bash
 
-aws s2 ls
+aws s3 ls
 
 echo "show all my files pimpin"
 
