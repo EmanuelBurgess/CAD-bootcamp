@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "my name is sam"
+echo "never forget who turn on the lights"
 
